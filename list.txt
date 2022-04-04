@@ -1,0 +1,12 @@
+! Version: 2203152100
+! Title: Softforum List
+! Last modified: 15 Mar 2022 21:00 UTC
+! Expires: 4 days (update frequency)
+! https://gist.githubusercontent.com/kzqian/2b6b3652102a2e9e32397de4c4aad34c/raw/63584a54ba48f409a7edead7842df583a03bc826/list.txt
+ptwxz.com#$#div#content {font-family: "Microsoft Yahei"; font-size: 24px !important; line-height: 36px !important;}
+wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
+wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; font-size: 20px !important;}
+zh.wikipedia.org#$#body {font-family: "Microsoft Yahei" !important;}
+capfriendly.com##div.freeStar
+@@||rakuten.ca^$document
+adserver.wenxuecity.com
