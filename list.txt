@@ -1,7 +1,7 @@
 !--------------------------------------------------------------------------
-! Version: 22004162100
+! Version: 22004162200
 ! Title: Softforum List
-! Last modified: 16 Apr 2022 21:00 UTC
+! Last modified: 16 Apr 2022 22:00 UTC
 ! Expires: 4 days (update frequency)
 !--------------------------------------------------------------------------
 ptwxz.com#$#div#content {font-family: "Microsoft Yahei"; font-size: 24px !important; line-height: 36px !important;}
@@ -9,8 +9,8 @@ wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
 wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; font-size: 20px !important;}
 zh.wikipedia.org#$#body {font-family: "Microsoft Yahei" !important;}
 capfriendly.com##div.freeStar
-@@||rakuten.ca^$document
-nhl.com##div#loading-container
+!nhl.com##div#loading-container
+!@@||rakuten.ca^$document
 !--------------------------------------------------------------------------
 ! Wenxuecity workaround for AG for Safari
 !--------------------------------------------------------------------------
