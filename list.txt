@@ -10,9 +10,3 @@ wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; fon
 zh.wikipedia.org#$#body {font-family: "Microsoft Yahei" !important;}
 capfriendly.com##div.freeStar
 nhl.com##div#loading-container
-!@@||rakuten.ca^$document
-!--------------------------------------------------------------------------
-! Wenxuecity workaround for AG for Safari
-!--------------------------------------------------------------------------
-!adserver.wenxuecity.com
-!wenxuecity.com###header > div.wrapper > div:last-child > a > img
