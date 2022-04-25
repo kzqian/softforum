@@ -14,5 +14,5 @@ zh.wikipedia.org#$#body {font-family: "Microsoft Yahei" !important;}
 ! Remove Annoyances 
 !--------------------------------------------------------------------------
 capfriendly.com##div.freeStar
-wenxuecity.com##div.banner
+wenxuecity.com##div#adt
 nhl.com##div#loading-container
