@@ -1,7 +1,7 @@
 !--------------------------------------------------------------------------
-! Version: 2205071600
+! Version: 2205071700
 ! Title: Softforum List
-! Last modified: 7 May 2022 16:00 UTC
+! Last modified: 7 May 2022 17:00 UTC
 ! Expires: 4 days (update frequency)
 !--------------------------------------------------------------------------
 ! Custom Font
@@ -13,7 +13,3 @@ wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; fon
 !--------------------------------------------------------------------------
 capfriendly.com##div.freeStar
 nhl.com##div#loading-container
-!--------------------------------------------------------------------------
-! Quick Fix for Safari 
-!--------------------------------------------------------------------------
-@@||pubads.g.doubleclick.net/*nhl.com*
