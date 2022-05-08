@@ -16,4 +16,4 @@ nhl.com##div#loading-container
 !--------------------------------------------------------------------------
 ! Quick Fix for Safari 
 !--------------------------------------------------------------------------
-@@||pubads.g.doubleclick.net/*$domain=nhl.com
+@@||pubads.g.doubleclick.net/*nhl.com*
