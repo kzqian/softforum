@@ -1,18 +1,15 @@
 !--------------------------------------------------------------------------
-! Version: 22004241400
+! Version: 22005071400
 ! Title: Softforum List
-! Last modified: 24 Apr 2022 14:00 UTC
+! Last modified: 7 May 2022 14:00 UTC
 ! Expires: 4 days (update frequency)
 !--------------------------------------------------------------------------
 ! Custom Font
 !--------------------------------------------------------------------------
-ptwxz.com#$#div#content {font-family: "Microsoft Yahei"; font-size: 24px !important; line-height: 36px !important;}
 wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
 wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; font-size: 20px !important;}
-zh.wikipedia.org#$#body {font-family: "Microsoft Yahei" !important;}
 !--------------------------------------------------------------------------
 ! Remove Annoyances 
 !--------------------------------------------------------------------------
 capfriendly.com##div.freeStar
-wenxuecity.com##div#adt
 nhl.com##div#loading-container
