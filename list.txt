@@ -4,14 +4,15 @@
 ! Last modified: 7 May 2022 17:00 UTC
 ! Expires: 4 days (update frequency)
 !--------------------------------------------------------------------------
-! Fix NHL Highlights (AG Safari Only)
+! Fix NHL Highlights
 !--------------------------------------------------------------------------
-@@||pubads.g.doubleclick.net^$domain=nhl.com
+@@||pubads.g.doubleclick.net/*nhl.com*^$domain=nhl.com
 !--------------------------------------------------------------------------
-! Custom Font
+! Wenxuecity
 !--------------------------------------------------------------------------
 wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
 wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; font-size: 20px !important;}
+wenxuecity.com##a[href*=pubads]
 !--------------------------------------------------------------------------
 ! Remove Annoyances 
 !--------------------------------------------------------------------------
