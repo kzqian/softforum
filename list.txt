@@ -18,4 +18,5 @@ wenxuecity.com##a[href*=pubads]
 ! Remove Annoyances 
 !--------------------------------------------------------------------------
 capfriendly.com##div.freeStar
+iphoneincanada.ca##div.iic2017wa
 nhl.com##div#loading-container
