@@ -1,13 +1,13 @@
 !--------------------------------------------------------------------------
-! Version: 2205121000
+! Version: 2206021000
 ! Title: Softforum List
-! Last modified: 12 May 2022 10:00 UTC
+! Last modified: 2 June 2022 10:00 UTC
 ! Expires: 4 days (update frequency)
 !--------------------------------------------------------------------------
 ! Fix NHL Highlights
 !--------------------------------------------------------------------------
-!@@||pubads.g.doubleclick.net^$domain=nhl.com
-!@@||cdn.cookielaw.org^$domain=nhl.com
+@@||pubads.g.doubleclick.net^$xmlhttprequest,domain=nhl.com
+@@||cdn.cookielaw.org^$xmlhttprequest,domain=nhl.com
 !--------------------------------------------------------------------------
 ! Wenxuecity
 !--------------------------------------------------------------------------
