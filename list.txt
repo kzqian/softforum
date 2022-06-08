@@ -8,6 +8,7 @@
 !--------------------------------------------------------------------------
 wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
 wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; font-size: 20px !important;}
+wenxuecity.com##a[href*=pubads]
 !--------------------------------------------------------------------------
 ! Remove Annoyances 
 !--------------------------------------------------------------------------
