@@ -1,6 +1,6 @@
 !--------------------------------------------------------------------------
 ! Version: 2206021000
-! Title: Softforum List - Safari Only
+! Title: Softforum - Safari
 ! Last modified: 2 June 2022 10:00 UTC
 ! Expires: 4 days (update frequency)
 !--------------------------------------------------------------------------
