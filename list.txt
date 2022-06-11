@@ -1,8 +1,8 @@
 !--------------------------------------------------------------------------
-! Version: 2206021000
+! Version: 2206111000
 ! Title: Softforum - General
-! Last modified: 2 June 2022 10:00 UTC
-! Expires: 4 days (update frequency)
+! Last modified: 11 June 2022 10:00 UTC
+! Expires: 7 days (update frequency)
 !--------------------------------------------------------------------------
 ! Wenxuecity
 !--------------------------------------------------------------------------
@@ -15,3 +15,4 @@ wenxuecity.com##a[href*=pubads]
 capfriendly.com##div.freeStar
 iphoneincanada.ca##div.iic2017wa
 nhl.com##div#loading-container
+olevod.com##div.imgBox:has(.ad)
