@@ -1,6 +1,5 @@
 ! Title: Softforum - General
 ! Version: 2206111000
-! TimeUpdated: 2022-06-11T10:00:00+00:00
 ! Last modified: 11 Jun 2020 10:00 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.uxin.ca/
