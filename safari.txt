@@ -1,11 +1,9 @@
-!--------------------------------------------------------------------------
-! Version: 2206081000
 ! Title: Softforum - Safari
-! Last modified: 8 June 2022 10:00 UTC
-! Expires: 4 days (update frequency)
-!--------------------------------------------------------------------------
-! Fix NHL Highlights
-!--------------------------------------------------------------------------
-@@||pubads.g.doubleclick.net^$xmlhttprequest,domain=nhl.com
-@@||securepubads.g.doubleclick.net^$xmlhttprequest,domain=nhl.com
-@@||cdn.cookielaw.org^$xmlhttprequest,domain=nhl.com
+! Version: 2206251000
+! TimeUpdated: 2022-06-25T10:00:00+00:00
+! Expires: 7 days (update frequency)
+! Homepage: https://www.uxin.ca/
+51.ca##li.d-none.d-md-block
+51.ca##div.d-none.d-md-block
+olevod.com##div.imgBox:has(.ad)
+wenxuecity.com##a[href*=pubads]
