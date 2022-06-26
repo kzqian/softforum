@@ -8,6 +8,9 @@
 wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
 wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; font-size: 20px !important;}
 ! -----------------------  Annoyance  -----------------------!
+51.ca##.wg51__feeds-item.d-none
+51.ca##.wg51__feeds-item.article-a
+51.ca##div.container-md.d-none
 capfriendly.com##div.freeStar
 iphoneincanada.ca##div.iic2017wa
 nhl.com##div#loading-container
