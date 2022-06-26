@@ -6,6 +6,5 @@
 51.ca##.wg51__feeds-item.d-none
 51.ca##.wg51__feeds-item.article-a
 51.ca##div.container-md.d-none
-iphoneincanada.ca##div.iic2017wa
 olevod.com##div.imgBox:has(.ad)
 wenxuecity.com##a[href*=pubads]
