@@ -12,5 +12,6 @@ wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; fon
 51.ca##.wg51__feeds-item.article-a
 51.ca##div.container-md.d-none
 capfriendly.com##div.freeStar
+citynews.ca##div.ad_leaderboard_master
 iphoneincanada.ca##div.iic2017wa
 nhl.com##div#loading-container
