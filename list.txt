@@ -1,6 +1,6 @@
 ! Title: Softforum - General
-! Version: 2206271100
-! TimeUpdated: 2022-06-27T11:00:00+00:00
+! Version: 22007021000
+! TimeUpdated: 2022-07-02T10:00:00+00:00
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.uxin.ca/
 !
@@ -15,3 +15,5 @@ capfriendly.com##div.freeStar
 citynews.ca##div#master-leaderboard
 iphoneincanada.ca##div.iic2017wa
 nhl.com##div#loading-container
+olevod.com##div.imgBox:has(.ad)
+wenxuecity.com##a[href*=pubads]
