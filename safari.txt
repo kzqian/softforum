@@ -1,7 +1,0 @@
-! Title: Softforum - Safari
-! Version: 2206251100
-! TimeUpdated: 2022-06-25T11:00:00+00:00
-! Expires: 7 days (update frequency)
-! Homepage: https://www.uxin.ca/
-olevod.com##div.imgBox:has(.ad)
-wenxuecity.com##a[href*=pubads]
