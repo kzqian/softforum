@@ -16,4 +16,5 @@ citynews.ca##div#master-leaderboard
 iphoneincanada.ca##div.iic2017wa
 nhl.com##div#loading-container
 olevod.com/upload/site/*.gif
+olevod.com##div.imgBox:has(.ad)
 wenxuecity.com##a[href*=pubads]
