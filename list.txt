@@ -1,13 +1,13 @@
 ! Title: Softforum - General
-! Version: 22007041000
-! TimeUpdated: 2022-07-04T10:00:00+00:00
+! Version: 22007041100
+! TimeUpdated: 2022-07-04T11:00:00+00:00
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.uxin.ca/
 !
-! ----------------------- Wenxue City -----------------------!
+! ----------------------------------------------!
 wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
 wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; font-size: 20px !important;}
-! -----------------------  Annoyance  -----------------------!
+! ----------------------------------------------!
 51.ca##.wg51__feeds-item[class*=stream-mixed-]
 51.ca##.wg51__feeds-item.article-a
 51.ca##div.container-md.d-none
@@ -17,4 +17,6 @@ iphoneincanada.ca##div.iic2017wa
 nhl.com##div#loading-container
 olevod.com/upload/site/*.gif
 olevod.com##div.imgBox:has(.ad)
+tangrenjie.tv/gg/
+tangrenjie.tv##div[class$=acmsd]
 wenxuecity.com##a[href*=pubads]
