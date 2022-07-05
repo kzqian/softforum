@@ -15,5 +15,5 @@ capfriendly.com##div.freeStar
 citynews.ca##div#master-leaderboard
 iphoneincanada.ca##div.iic2017wa
 nhl.com##div#loading-container
-olevod.com##div.imgBox:has(.ad)
+olevod.com/upload/site/*.gif
 wenxuecity.com##a[href*=pubads]
