@@ -20,3 +20,4 @@ olevod.com##div.imgBox:has(.ad)
 tangrenjie.tv/gg/
 tangrenjie.tv##div[class$=acmsd]
 wenxuecity.com##a[href*=ads]
+wenxuecity.com##a:has(img[src*=ads])
