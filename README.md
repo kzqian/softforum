@@ -1,6 +1,7 @@
 # softforum
 <details>
   <summary>BC4 Mac Unlimited</summary>
+  
 1 . goto `beyond compare` folder
 ```
  cd "/Applications/Beyond Compare.app/Contents/MacOS/"
