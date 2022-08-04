@@ -1,6 +1,7 @@
 # softforum
 <details>
-  <summary>BC4 Mac Unlimited</summary>
+  <summary>BC4 MAC Unlimited</summary>
+  
   
 1 . goto `beyond compare` folder
 ```
@@ -33,4 +34,14 @@ chmod +x BCompare
 
 refer to:
  [beyond-compare-4-for-mac-unlimited](http://tutandtips.blogspot.com/2015/10/beyond-compare-4-for-mac-unlimited.html)
+</details>
+
+<details>
+  <summary>BC4 WIN Unlimited</summary>
+  
+  
+1 . run command
+```
+ reg.exe delete "HKCU\Software\Scooter Software\Beyond Compare 4" /v CacheID /f
+```
 </details>
