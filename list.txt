@@ -1,6 +1,6 @@
 ! Title: Softforum - General
-! Version: 22008061100
-! TimeUpdated: 2022-08-06T11:00:00+00:00
+! Version: 22008061200
+! TimeUpdated: 2022-08-06T12:00:00+00:00
 ! Expires: 7 days (update frequency)
 ! ----------------------------------------------!
 capfriendly.com##div.freeStar
@@ -10,9 +10,12 @@ wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; fon
 uxin.ca#$#div.book-content {font-family: "Microsoft Yahei" !important;}
 ! --------- Safari -----------------------------!
 !#if (adguard_ext_safari)
+51.ca/dist/vendors*.js
+51.ca##.wg51__feeds-item[class*=stream-mixed-]
+51.ca##.wg51__feeds-item.article-a
+51.ca##div.container-md.d-none
 olevod.com/upload/site/*.gif
 olevod.com##div.imgBox:has(.ad)
 wenxuecity.com##a[href*=ads]
 wenxuecity.com##a:has(img[src*=ads])
-wuyou.ca/wuyoujs.
 !#endif
