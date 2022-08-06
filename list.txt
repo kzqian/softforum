@@ -1,6 +1,6 @@
 ! Title: Softforum - General
-! Version: 22008061000
-! TimeUpdated: 2022-08-06T10:00:00+00:00
+! Version: 22008061100
+! TimeUpdated: 2022-08-06T11:00:00+00:00
 ! Expires: 7 days (update frequency)
 ! ----------------------------------------------!
 capfriendly.com##div.freeStar
@@ -14,4 +14,5 @@ olevod.com/upload/site/*.gif
 olevod.com##div.imgBox:has(.ad)
 wenxuecity.com##a[href*=ads]
 wenxuecity.com##a:has(img[src*=ads])
+wuyou.ca/wuyoujs.
 !#endif
