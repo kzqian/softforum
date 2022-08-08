@@ -14,7 +14,6 @@ wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; fon
 uxin.ca#$#div.book-content {font-family: "Microsoft Yahei" !important;}
 ! --------- Safari -----------------------------!
 !#if adguard_ext_safari
-
 olevod.com/upload/site/*.gif
 olevod.com##div.imgBox:has(.ad)
 wenxuecity.com##a[href*=ads]
