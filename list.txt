@@ -1,9 +1,8 @@
 ! Title: Softforum - General
-! Version: 22080811
-! TimeUpdated: 2022-08-08T11:00:00+00:00
+! Version: 22080812
+! TimeUpdated: 2022-08-08T12:00:00+00:00
 ! Expires: 7 days (update frequency)
 ! ----------------------------------------------!
-51.ca/dist/vendors*.js
 51.ca##div.swiper
 51.ca##li.wg51__feeds-item[class*=stream-mixed-]
 51.ca##li.wg51__feeds-item[class*=article-]
