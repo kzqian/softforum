@@ -3,9 +3,10 @@
 ! TimeUpdated: 2022-08-08T12:00:00+00:00
 ! Expires: 7 days (update frequency)
 ! ----------------------------------------------!
-51.ca##div.swiper
-51.ca##li.wg51__feeds-item[class*=stream-mixed-]
-51.ca##li.wg51__feeds-item[class*=article-]
+info.51.ca/*.js
+info.51.ca##div.container-md > div.swiper
+info.51.ca##li.wg51__feeds-item[class*=stream-mixed-]
+info.51.ca##li.wg51__feeds-item[class*=article-]
 capfriendly.com##div.freeStar
 nhl.com##div#loading-container
 wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
