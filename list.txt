@@ -18,4 +18,5 @@ olevod.com/upload/site/*.gif
 olevod.com##div.imgBox:has(.ad)
 wenxuecity.com##a[href*=ads]
 wenxuecity.com##a:has(img[src*=ads])
+wenxuecity.com##div.ad_center
 !#endif
