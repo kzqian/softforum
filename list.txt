@@ -13,10 +13,9 @@ citynews.ca##div.ad_leaderboard_master
 wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
 wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; font-size: 20px !important;}
 uxin.ca#$#div.book-content {font-family: "Microsoft Yahei" !important;}
-!#if adguard_ext_safari
+! ----------------------------------------------!
 olevod.com/upload/site/*.gif
 olevod.com##div.imgBox:has(.ad)
 wenxuecity.com##a[href*=ads]
 wenxuecity.com##a:has(img[src*=ads])
 wenxuecity.com##div.ad_center
-!#endif
