@@ -1,6 +1,6 @@
 ! Title: Softforum - General
-! Version: 22090705
-! TimeUpdated: 2022-09-07T05:00:00+00:00
+! Version: 22090706
+! TimeUpdated: 2022-09-07T06:00:00+00:00
 ! Expires: 7 days (update frequency)
 ! ----------------------------------------------!
 info.51.ca/*.js
@@ -19,4 +19,6 @@ olevod.com##div.imgBox:has(.ad)
 wenxuecity.com##a[href*=ads]
 wenxuecity.com##a:has(img[src*=ads])
 wenxuecity.com##div.ad_center
+wenxuecity.com##div.banner:has(a[href*=ads])
 wenxuecity.com##div.wrapper:has(.logo)
+wenxuecity.com##div[class*=classified]:has(div[id*=-ad-])
