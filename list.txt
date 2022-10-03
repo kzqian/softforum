@@ -14,10 +14,6 @@ wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
 wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; font-size: 20px !important;}
 uxin.ca#$#div.book-content {font-family: "Microsoft Yahei" !important;}
 ! ----------------------------------------------!
-outlook.live.com#@#.customScrollBar > div div.full:not([aria-label]):not([data-convid]):not([role="option"]):not(.disableTextSelection):not([title])
-outlook.live.com#@#.customScrollBar > div div.full:not([aria-label]):not([data-convid]):not([role="option"]):not([tabindex]):not(.disableTextSelection):not([title])
-outlook.live.com##.customScrollBar > div:not([draggable=true]) > div.full:not([aria-label]):not([data-convid]):not([role="option"]):not(.disableTextSelection):not([title])
-! ----------------------------------------------!
 olehdtv.com/upload/site/*.gif
 olehdtv.com##div.imgBox:has(.ad)
 wenxuecity.com##a[href*=ads]
