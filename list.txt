@@ -1,6 +1,6 @@
 ! Title: Softforum - General
-! Version: 220100301
-! TimeUpdated: 2022-10-03T01:00:00+00:00
+! Version: 220100701
+! TimeUpdated: 2022-10-07T01:00:00+00:00
 ! Expires: 7 days (update frequency)
 ! ----------------------------------------------!
 info.51.ca/*.js
@@ -12,7 +12,6 @@ nhl.com##div#loading-container
 citynews.ca##div#master-leaderboard
 wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
 wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; font-size: 20px !important;}
-uxin.ca#$#div.book-content {font-family: "Microsoft Yahei" !important;}
 ! ----------------------------------------------!
 olehdtv.com/upload/site/*.gif
 olehdtv.com##div.imgBox:has(.ad)
