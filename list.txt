@@ -1,20 +1,13 @@
 ! Title: Softforum - General
-! Version: 220100701
-! TimeUpdated: 2022-10-07T01:00:00+00:00
+! Version: 220101201
+! TimeUpdated: 2022-10-12T01:00:00+00:00
 ! Expires: 7 days (update frequency)
 ! ----------------------------------------------!
+nhl.com##div#loading-container
 info.51.ca/*.js
 info.51.ca##div.container-md > div.swiper
 info.51.ca##li.wg51__feeds-item[class*=stream-mixed-]
 info.51.ca##li.wg51__feeds-item[class*=article-]
-capfriendly.com##div.freeStar
-nhl.com##div#loading-container
-citynews.ca##div#master-leaderboard
-wenxuecity.com#$#div.content {font-family: "Microsoft Yahei" !important;}
-wenxuecity.com#$#div#articleBody {font-family: "Microsoft Yahei" !important; font-size: 20px !important;}
-! ----------------------------------------------!
-olehdtv.com/upload/site/*.gif
-olehdtv.com##div.imgBox:has(.ad)
 wenxuecity.com##a[href*=ads]
 wenxuecity.com##a:has(img[src*=ads])
 wenxuecity.com##div.ad_center
