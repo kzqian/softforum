@@ -1,8 +1,10 @@
-! Title: Softforum - General
-! Version: 220101201
-! TimeUpdated: 2022-10-12T01:00:00+00:00
+[Adblock Plus 2.0]
+! Version: 2022110601
+! Title: EasyList
+! Last modified: 06 Nov 2022 01:00 UTC
 ! Expires: 7 days (update frequency)
-! ----------------------------------------------!
+! Homepage: https://www.uxin.ca/
+! ------------------------------------------------------!
 nhl.com##div#loading-container
 info.51.ca/*.js
 info.51.ca##div.container-md > div.swiper
