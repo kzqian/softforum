@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2022110601
+! Version: 2022111901
 ! Title: Uxin List
-! Last modified: 06 Nov 2022 01:00 UTC
+! Last modified: 19 Nov 2022 01:00 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.uxin.ca/
 ! ------------------------------------------------------!
