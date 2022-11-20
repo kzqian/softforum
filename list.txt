@@ -18,4 +18,4 @@ wenxuecity.com##div.wrapper:has(.logo)
 wenxuecity.com##div[class*=classified]:has(div[id*=-ad-])
 ! ------------------------------------------------------!
 @@||ads.rogersmedia.com/cbc_live_stream*.html$important,domain=cbc.ca
-@@||pubads.g.doubleclick.net/ssai/event/*.m3u8$important,domain=cbc.ca
+@@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$important,domain=cbc.ca
