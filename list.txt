@@ -21,10 +21,6 @@ wenxuecity.com##div[class*=classified]:has(div[id*=-ad-])
 @@||ads.rogersmedia.com/cbc_live_stream*.html$important,domain=cbc.ca
 @@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$important,domain=cbc.ca
 !#endif
-!#if !adguard
-@@||ads.rogersmedia.com/cbc_live_stream*.html$domain=cbc.ca
-@@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=cbc.ca
-!#endif
 ! ------------------------------------------------------!
 !#if adguard_ext_firefox
 uxin.ca#$#div.books-wrapper {scrollbar-width: none;}
