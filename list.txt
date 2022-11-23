@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2022112101
+! Version: 2022112301
 ! Title: Uxin List
-! Last modified: 21 Nov 2022 01:00 UTC
+! Last modified: 23 Nov 2022 01:00 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.uxin.ca/
 ! ------------------------------------------------------!
@@ -12,6 +12,7 @@ info.51.ca##li.wg51__feeds-item[class*=stream-mixed-]
 info.51.ca##li.wg51__feeds-item[class*=article-]
 wenxuecity.com##a[href*=ads]
 wenxuecity.com##a:has(img[src*=ads])
+wenxuecity.com##a.adslink
 wenxuecity.com##div.ad_center
 wenxuecity.com##div.banner
 wenxuecity.com##div.wrapper:has(.logo)
