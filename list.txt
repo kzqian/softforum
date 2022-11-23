@@ -10,6 +10,7 @@ info.51.ca/*.js
 info.51.ca##div.container-md > div.swiper
 info.51.ca##li.wg51__feeds-item[class*=stream-mixed-]
 info.51.ca##li.wg51__feeds-item[class*=article-]
+citynews.ca##div.d-flex:has(img.replacement-image)
 wenxuecity.com##a[href*=ads]
 wenxuecity.com##a:has(img[src*=ads])
 wenxuecity.com##a.adslink
