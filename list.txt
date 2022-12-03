@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
-! Version: 2022120208
+! Version: 2022120209
 ! Title: Softforum List
 ! Descirption: Softforum's Personal List
-! Last modified: 02 Dec 2022 08:00 UTC
+! Last modified: 02 Dec 2022 09:00 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.uxin.ca/
 !-----  Unbreak  -----
-@@||ads.rogersmedia.com/cbc_live_stream*.html$subdocument
-@@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=cbc.ca|players.brightcove.net
-@@||oms.rogersmedia.com/b/ss/*$domain=cbc.ca|players.brightcove.net
-@@||googlevideo.com/videoplayback?*$domain=cbc.ca|players.brightcove.net
+@@||ads.rogersmedia.com/cbc_live_stream$subdocument
+@@||pubads.g.doubleclick.net/ssai/event/$xhr,domain=cbc.ca|players.brightcove.net
+@@||oms.rogersmedia.com/b/ss/$domain=cbc.ca|players.brightcove.net
+@@||googlevideo.com/videoplayback?$domain=cbc.ca|players.brightcove.net
 !-----  Blocked  -----
 nhl.com##div#loading-container
 citynews.ca##div.d-flex:has(img.replacement-image)
