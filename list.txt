@@ -1,21 +1,17 @@
 [Adblock Plus 2.0]
-! Version: 2022121205
+! Version: 2023021705
 ! Title: Softforum List
 ! Descirption: Softforum's Personal List
-! Last modified: 12 Dec 2022 05:00 UTC
+! Last modified: 17 Feb 2023 05:00 UTC
 ! Expires: 7 days (update frequency)
-! Homepage: https://www.uxin.ca/
-!-----  Unbreak  -----
-@@||ads.rogersmedia.com/cbc_live_stream$subdocument
-@@||pubads.g.doubleclick.net/ssai/event/$domain=cbc.ca|players.brightcove.net
-@@||oms.rogersmedia.com/b/ss/$domain=cbc.ca|players.brightcove.net
-@@||googlevideo.com/videoplayback?$domain=cbc.ca|players.brightcove.net
+! Homepage: https://cloud.uxin.ca/
 !-----  Blocked  -----
 nhl.com##div#loading-container
 citynews.ca##div.d-flex:has(img.replacement-image)
 info.51.ca##div.container-md > div.swiper
 info.51.ca##li.wg51__feeds-item[class*=stream-mixed-]
 info.51.ca##li.wg51__feeds-item[class*=article-]
+iphoneincanada.ca##.adthrive-ad
 wenxuecity.com##a[href*=ads]
 wenxuecity.com##a:has(img[src*=ads])
 wenxuecity.com##a.adslink
@@ -24,7 +20,18 @@ wenxuecity.com##div.banner
 wenxuecity.com##div.wrapper:has(.logo)
 wenxuecity.com##div[class*=classified]:has(div[id*=-ad-])
 !-----  Specific -----
+!#if adguard_ext_safari
+@@||ads.rogersmedia.com/cbc_live_stream$subdocument
+@@||pubads.g.doubleclick.net/ssai/event/$domain=cbc.ca|players.brightcove.net
+@@||oms.rogersmedia.com/b/ss/$domain=cbc.ca|players.brightcove.net
+@@||googlevideo.com/videoplayback?$domain=cbc.ca|players.brightcove.net
+@@||music.apple.com^$document
+||embed.sendtonews.com^$3p
+!#endif
 !#if adguard_ext_firefox
 uxin.ca#$#div.books-wrapper {scrollbar-width: none;}
 uxin.ca#$#div.navigation-inner-wrapper {scrollbar-width: none;}
+!#endif
+!#if adguard_ext_chromium
+zh.wikipedia.org#$#body {font-family: "Microsoft Yahei" !important;}
 !#endif
