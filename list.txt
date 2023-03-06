@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 2023021705
+! Version: 2023030405
 ! Title: Softforum List
 ! Descirption: Softforum's Personal List
-! Last modified: 17 Feb 2023 05:00 UTC
+! Last modified: 4 Mar 2023 05:00 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: https://cloud.uxin.ca/
 !-----  Blocked  -----
@@ -21,11 +21,10 @@ wenxuecity.com##div.wrapper:has(.logo)
 wenxuecity.com##div[class*=classified]:has(div[id*=-ad-])
 !-----  Specific -----
 !#if adguard_ext_safari
-@@||ads.rogersmedia.com/cbc_live_stream$subdocument
-@@||pubads.g.doubleclick.net/ssai/event/$domain=cbc.ca|players.brightcove.net
-@@||oms.rogersmedia.com/b/ss/$domain=cbc.ca|players.brightcove.net
-@@||googlevideo.com/videoplayback?$domain=cbc.ca|players.brightcove.net
-@@||music.apple.com^$document
+@@||ads.rogersmedia.com/cbc$frame,domain=cbc.ca
+@@||pubads.g.doubleclick.net/ssai/event/$xhr,domain=players.brightcove.net|cbc.ca
+!@@||oms.rogersmedia.com/b/ss/$domain=cbc.ca|players.brightcove.net
+!@@||googlevideo.com/videoplayback?$domain=cbc.ca|players.brightcove.net
 ||embed.sendtonews.com^$3p
 !#endif
 !#if adguard_ext_firefox
