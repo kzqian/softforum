@@ -1,31 +1,32 @@
 [Adblock Plus 2.0]
-! Version: 2023030405
+! Version: 2023062806
 ! Title: Softforum List
 ! Descirption: Softforum's Personal List
-! Last modified: 4 Mar 2023 05:00 UTC
+! Last modified: 28 Jun 2023 06:00 UTC
 ! Expires: 7 days (update frequency)
-! Homepage: https://cloud.uxin.ca/
+! Homepage: https://list.uxin.ca/
 !-----  Blocked  -----
 nhl.com##div#loading-container
-citynews.ca##div.d-flex:has(img.replacement-image)
 info.51.ca##div.container-md > div.swiper
 info.51.ca##li.wg51__feeds-item[class*=stream-mixed-]
 info.51.ca##li.wg51__feeds-item[class*=article-]
-iphoneincanada.ca##.adthrive-ad
+iphoneincanada.ca##div[class*=adthrive]
 wenxuecity.com##a[href*=ads]
 wenxuecity.com##a:has(img[src*=ads])
 wenxuecity.com##a.adslink
 wenxuecity.com##div.ad_center
 wenxuecity.com##div.banner
-wenxuecity.com##div.wrapper:has(.logo)
+wenxuecity.com##div.classified_left
+wenxuecity.com##div.classified_right
+wenxuecity.com##div.wrapper:has(> .logo)
 wenxuecity.com##div[class*=classified]:has(div[id*=-ad-])
-!-----  Specific -----
+!-----  Browser  -----
 !#if adguard_ext_safari
-@@||ads.rogersmedia.com/cbc$frame,domain=cbc.ca
-@@||pubads.g.doubleclick.net/ssai/event/$xhr,domain=players.brightcove.net|cbc.ca
-!@@||oms.rogersmedia.com/b/ss/$domain=cbc.ca|players.brightcove.net
-!@@||googlevideo.com/videoplayback?$domain=cbc.ca|players.brightcove.net
-||embed.sendtonews.com^$3p
+!@@||ads.rogersmedia.com/cbc$subdocument,domain=cbc.ca
+!@@||pubads.g.doubleclick.net/ssai/event/$domain=players.brightcove.net|cbc.ca
+!@@||googlevideo.com/videoplayback?$domain=players.brightcove.net|cbc.ca
+!@@||succeedscene.com/*/ads.load.js$third-party
+||embed.sendtonews.com^$third-party
 !#endif
 !#if adguard_ext_firefox
 uxin.ca#$#div.books-wrapper {scrollbar-width: none;}
